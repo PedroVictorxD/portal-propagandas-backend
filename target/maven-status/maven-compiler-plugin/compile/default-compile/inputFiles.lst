@@ -1,0 +1,17 @@
+/home/pedro/projeto-propaganda/bellafit-backend/src/main/java/com/bellafit/dto/LoginRequest.java
+/home/pedro/projeto-propaganda/bellafit-backend/src/main/java/com/bellafit/BellaFitApplication.java
+/home/pedro/projeto-propaganda/bellafit-backend/src/main/java/com/bellafit/entity/Advertisement.java
+/home/pedro/projeto-propaganda/bellafit-backend/src/main/java/com/bellafit/dto/LoginResponse.java
+/home/pedro/projeto-propaganda/bellafit-backend/src/main/java/com/bellafit/dto/StatsResponse.java
+/home/pedro/projeto-propaganda/bellafit-backend/src/main/java/com/bellafit/service/AuthService.java
+/home/pedro/projeto-propaganda/bellafit-backend/src/main/java/com/bellafit/controller/ClientController.java
+/home/pedro/projeto-propaganda/bellafit-backend/src/main/java/com/bellafit/entity/Client.java
+/home/pedro/projeto-propaganda/bellafit-backend/src/main/java/com/bellafit/dto/ClientDTO.java
+/home/pedro/projeto-propaganda/bellafit-backend/src/main/java/com/bellafit/entity/User.java
+/home/pedro/projeto-propaganda/bellafit-backend/src/main/java/com/bellafit/repository/AdvertisementRepository.java
+/home/pedro/projeto-propaganda/bellafit-backend/src/main/java/com/bellafit/controller/AuthController.java
+/home/pedro/projeto-propaganda/bellafit-backend/src/main/java/com/bellafit/repository/UserRepository.java
+/home/pedro/projeto-propaganda/bellafit-backend/src/main/java/com/bellafit/dto/AdvertisementDTO.java
+/home/pedro/projeto-propaganda/bellafit-backend/src/main/java/com/bellafit/controller/AdvertisementController.java
+/home/pedro/projeto-propaganda/bellafit-backend/src/main/java/com/bellafit/config/SecurityConfig.java
+/home/pedro/projeto-propaganda/bellafit-backend/src/main/java/com/bellafit/repository/ClientRepository.java
